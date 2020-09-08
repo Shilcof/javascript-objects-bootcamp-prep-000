@@ -1,1 +1,3 @@
-var object = 
+var playlist = {}
+
+function 
